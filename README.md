@@ -16,12 +16,13 @@
 ## Tech Stack 📚
 
 <h4>📕 Language <br><br>
-<img src="https://img.shields.io/badge/C-4D5B5C?style=for-the-badge&logo=C&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-012A4A?style=for-the-badge&logo=C&logoColor=white"> 
-<img src="https://img.shields.io/badge/C%23-3776AB?style=for-the-badge&logo=C&logoColor=white">
+
+<img src="https://img.shields.io/badge/C-4D5B5C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-012A4A?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/C%23-3776AB?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <br>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=CSS3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
