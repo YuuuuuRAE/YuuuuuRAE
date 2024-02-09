@@ -10,7 +10,7 @@
 
 ## Contacts ✉️
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@pair0406/)](https://velog.io/@pair0406/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YuuuuuRAE@gmail.com)](mailto:YuuuuuRAE@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YuuuuuRAE@gmail.com)](mailto:yuurae77@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sana0406@naver.com)](mailto:sana0406@naver.com)
 
 ## Tech Stack 📚
